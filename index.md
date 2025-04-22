@@ -1,4 +1,4 @@
-# 15-418 Final Project: Parallel Simulation
+# 15-418 Final Project: Cache Simulation
 
 Our cache coherency final project for Parallel :)
 **Team Members:** Sophia Qingyang Cao and Emily Szabo
